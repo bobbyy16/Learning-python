@@ -4,3 +4,6 @@ def fun(numberOfDays):
 data = int(input("Hey user, enter a number of days and I will convert it to hours\n "))
 convertedValue = fun(data)
 print(convertedValue)
+
+# validate user input in next file
+
